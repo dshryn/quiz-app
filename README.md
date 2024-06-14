@@ -45,6 +45,3 @@ The app is built using Flutter, a powerful framework for building cross-platform
 3. Answer the multiple-choice questions.
 4. View your results at the end and restart the quiz if desired.
 
-**Contributing**
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
