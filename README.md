@@ -13,7 +13,7 @@ The app is built using Flutter, a powerful framework for building cross-platform
  
 **Flutter concepts used:**
 
-- **State Management**: The app uses `StatefulWidget` and `setState` to manage the state of the quiz, such as tracking selected answers and navigating between screens.
+- **State Management**: The app uses basics of `StatefulWidget` and `setState` to manage the state of the quiz, such as tracking selected answers and navigating between screens.
 - **Navigation**: The app dynamically switches between the start screen, question screen, and result screen based on user interaction.
 - **Custom Widgets**: Custom widgets are used to encapsulate and manage different parts of the UI, such as the start screen, question screen, and result screen.
 - **Theming and Styling**: The app utilizes `BoxDecoration`, `LinearGradient`, and the Google Fonts package for a polished and visually appealing design.
