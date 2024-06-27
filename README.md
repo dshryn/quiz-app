@@ -1,6 +1,6 @@
-## Quiz App using Flutter(Dart)
+## Simple Quiz App using Flutter(Dart)
 
-This simple application is designed to test users' knowledge of Object-Oriented Programming (OOP) concepts through an engaging and interactive quiz interface.
+This basic application is designed to test users' knowledge of Object-Oriented Programming (OOP) concepts through an interactive quiz interface.
 
 The app is built using Flutter, a powerful framework for building cross-platform applications for mobile, web, and desktop from a single codebase. This app demonstrates several key concepts in Flutter, including state management, navigation, and custom widgets.
 
