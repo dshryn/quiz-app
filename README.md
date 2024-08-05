@@ -24,8 +24,8 @@ The app is built using Flutter, a powerful framework for building cross-platform
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dshryn/quiz_app.git
-    cd quiz_app
+    git clone https://github.com/dshryn/quiz-app.git
+    cd quiz-app
     ```
 
 2. Install dependencies:
