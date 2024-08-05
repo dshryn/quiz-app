@@ -20,7 +20,14 @@ The app is built using Flutter, a powerful framework for building cross-platform
 - **Asset Management**: Includes the use of images and custom fonts to enhance the user interface.
 
   
-**Setup and Installation**
+##Setup and Installation
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+- An editor like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/).
+
+To run the project on your machine, follow these steps-
 
 1. Clone the repository:
     ```sh
